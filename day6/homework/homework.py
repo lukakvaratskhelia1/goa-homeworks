@@ -1,0 +1,12 @@
+# name=input("enter your name")
+# surname=input("enter your surname")
+# age=input("enter your age")
+# print(name,surname,age)
+
+number1=input("number")
+number2=input("number")
+number3=input("number")
+print(nubmer1-number2-number3)
+print(number1+number2+number3)
+print(number1*number2*number3)
+print(number1/number2/number3)
